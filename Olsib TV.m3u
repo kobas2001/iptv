@@ -1,0 +1,143 @@
+#EXTM3U url-tvg=https://iptvx.one/epg/epg.xml.gz
+#EXTINF:-1, Плейлист от Mav. 
+https://video2.tizam.cc/files/2233864/bolshie_siski_i_popka_pod_muzyku.mp4
+#EXTM3U catchup=\"flussonic\"  url-tvg=\"https://iptvx.one/epg/epg.xml.gz\" refresh=\"3600\"
+#EXTINF:0 tvg-id=\"USSR_30\" tvg-name=\"Olsib USSR 30 FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib USSR 30 FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/USSR_30/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"USSR_40\" tvg-name=\"Olsib USSR 40 FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib USSR 40 FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/USSR_40/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"USSR_50\" tvg-name=\"Olsib USSR 50 FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib USSR 50 FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/USSR_50/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"USSR_60\" tvg-name=\"Olsib USSR 60 FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib USSR 60 FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/USSR_60/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"USSR_70\" tvg-name=\"Olsib USSR 70 FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib USSR 70 FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/USSR_70/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"USSR_80\" tvg-name=\"Olsib USSR 80 FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib USSR 80 FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/USSR_80/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"USSR_90\" tvg-name=\"Olsib USSR 90 FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib USSR 90 FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/USSR_90/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"USSR_serial\" tvg-name=\"Olsib  USSR serial FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib  USSR serial FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/USSR_serial/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"USSR_Classic\" tvg-name=\"Olsib USSR Classic FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib USSR Classic FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/USSR_Classic/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"RU.Music\" tvg-name=\"Olsib RU.Music FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib RU.Music FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/RU.Music/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Galicia\" tvg-name=\"Olsib Galicia FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Galicia FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Galicia/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Black_Comedy\" tvg-name=\"Olsib Black Comedy\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Black Comedy
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Black_Comedy/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Comedy\" tvg-name=\"Olsib Comedy FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Comedy FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Comedy/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Crime\" tvg-name=\"Olsib Crime FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Crime FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Crime/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Fantasy\" tvg-name=\"Olsib Fantasy FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Fantasy FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Fantasy/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Kids\" tvg-name=\"Olsib Kids FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Kids FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Kids/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Love_story\" tvg-name=\"Olsib Love story FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Love story FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Love_story/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"The_Best\" tvg-name=\"Olsib The Best FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib The Best FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/The_Best/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"The_newest\" tvg-name=\"Olsib The newest\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib The newest
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/The_newest/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"vhs\" tvg-name=\"Olsib VHS\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib VHS
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/vhs/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Wal_Disney\" tvg-name=\"Olsib Walt Disney FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Walt Disney FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Wal_Disney/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"War\" tvg-name=\"Olsib War FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib War FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/War/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Catastrophe\" tvg-name=\"Olsib Catastrophe FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Catastrophe FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Catastrophe/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Wrestling\" tvg-name=\"Olsib Wrestling\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Wrestling
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Wrestling/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Ancient_Rome\" tvg-name=\"Olsib Ancient Rome FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Ancient Rome FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Ancient_Rome/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Knives\" tvg-name=\"Olsib Knives FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Knives FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Knives/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Food\" tvg-name=\"Olsib Pro100 Kitchen FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Pro100 Kitchen FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Food/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"AV1\" tvg-name=\"Olsib Disco-80\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Disco-80
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/AV1/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Show\" tvg-name=\"Olsib Show FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Show FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Show/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Radio\" tvg-name=\"Olsib Radio FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Radio FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Radio/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Science-fiction\" tvg-name=\"Olsib Science-fiction FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Science-fiction FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Science-fiction/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"STB\" tvg-name=\"Olsib STB FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib STB FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/STB/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Documentary\" tvg-name=\"Olsib Documentary FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Documentary FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Documentary/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Time_loop\" tvg-name=\"Olsib Time Travel FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Time Travel FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Time_loop/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Multfilm\" tvg-name=\"Olsib Multfilm FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Multfilm FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Multfilm/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Ru_Action\" tvg-name=\"Olsib Ru_Action\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Ru_Action
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Ru_Action/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Italian_cinema\" tvg-name=\"Olsib Italian cinema FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Italian cinema FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Italian_cinema/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"The_old_best\" tvg-name=\"Olsib The old best HD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib The old best HD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/The_old_best/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Netflix_Orig\" tvg-name=\"Olsib Netflix Orig FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Netflix Orig FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Netflix_Orig/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"French_cinema\" tvg-name=\"Olsib French cinema FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib French cinema FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/French_cinema/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"British_cinema\" tvg-name=\"Olsib British cinema FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib British cinema FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/British_cinema/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"marvel/dc\" tvg-name=\"Olsib Marvel/DC FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Marvel/DC FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/marvel/dc/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"India_cinema\" tvg-name=\"Olsib India cinema FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib India cinema FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/India_cinema/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"OLSIB_RITSA\" tvg-name=\"Olsib RITSA FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib RITSA FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/OLSIB_RITSA/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"China_sinema\" tvg-name=\"Olsib China sinema FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib China sinema FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/China_sinema/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+#EXTINF:0 tvg-id=\"Germany_cinema\" tvg-name=\"Olsib Germany cinema FHD\" tvg-logo=\"https://olsib.site/OLSIB_tv.png\" group-title=\"OLSIB TV\" , Olsib Germany cinema FHD
+#EXTGRP:Olsib TV
+http://olsib.stream4k.ru:2095/Germany_cinema/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
